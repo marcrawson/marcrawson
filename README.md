@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcrawson
-- 👀 I’m interested in software development and machine learning.
+- 👀 I’m interested in software development, data science, and machine learning.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: msg me!
