@@ -1,4 +1,4 @@
-## 🦑 Hi, I’m @marcrawson (Marc Rawson)
+# 🦑 Hi, I’m @marcrawson (Marc Rawson)
 - 🌱 I am entering my third-year of Computer Science at UVic, studying machine learning in my spare time.
 - 🌏 Outside of software, I love video creation and graphic design (📸), spending time at the beach (🏖️), and climbing (🪜).
 - 😼 I'm always looking to collaborate, I love meeting new people! Send me an email: marc.s.rawson@gmail.com
