@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcrawson
+- 👋 Hi, I’m @marcrawson (Marc Rawson)
 - 👀 I’m interested in software development, data science, and machine learning.
 
 <!---
