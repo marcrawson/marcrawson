@@ -1,5 +1,5 @@
 # Hi, I’m Marc Rawson 🦑
-- 🌱 I am entering my third-year of Computer Science at UVic, studying machine learning in my spare time.
+- 🌱 I'm a fourth-year Computer Science and Geomatics student at UVic, studying machine learning in my spare time.
 - 🌏 Outside of software, I love video creation and graphic design (📸), spending time at the beach (🏖️), and climbing (🪜).
 - 😼 I'm always looking to collaborate, I love meeting new people! Send me an email: marc.s.rawson@gmail.com
 
